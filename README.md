@@ -23,19 +23,18 @@ Here are some ideas to get you started:
 - 🚀 Buscando colaborar em projetos **open source**  
 
 ---
-### 📫 Onde me encontrar
-<a href="https://www.linkedin.com/in/seuusuario/">
-  <img src="https://img.shields.io/badge/https://www.linkedin.com/in/vitor-martins-b8936b302/" alt="LinkedIn"/>
-</a>
-<a href="mailto:seuemail@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://github.com/VitorMartinsRS">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
+# 👋 Olá, eu sou o Vitor Martins
+
+### 👨‍💻 Sobre mim
+- 🎓 Estudante de **Engenharia da Computação**
+- 💼 Atuação e interesse em **Desenvolvimento Full-Stack**
+- 🌱 Atualmente aprendendo **C e C++**
+- 🚀 Buscando colaborar em projetos **open source**
+
+---
 
 ### 🚀 Tecnologias que uso no dia a dia
----
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -56,6 +55,23 @@ Here are some ideas to get you started:
 ### 📊 Estatísticas do GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMartinsRS&layout=compact&theme=dark)
----
-✨ Sempre aprendendo e construindo projetos com essas tecnologias!
 
+---
+
+### 📫 Onde me encontrar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vitor-martins-b8936b302/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vitorrsilveriomartins@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/VitorMartinsRS">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+✨ Sempre aprendendo e construindo projetos com essas tecnologias!
