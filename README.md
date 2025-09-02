@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ---
 ### 📫 Onde me encontrar
 <a href="https://www.linkedin.com/in/seuusuario/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/https://www.linkedin.com/in/vitor-martins-b8936b302/" alt="LinkedIn"/>
 </a>
 <a href="mailto:seuemail@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
