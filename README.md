@@ -14,8 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 📊 Linguagens mais usadas
 # 👋 Olá, eu sou o Vitor Martins  
+
+### 👨‍💻 Sobre mim
+- 🎓 Estudante de **Engenharia da Computação**  
+- 💼 Atuação e interesse em **Desenvolvimento Full-Stack**  
+- 🌱 Atualmente aprendendo **C e C++**  
+- 🚀 Buscando colaborar em projetos **open source**  
+
+---
 
 ### 🚀 Tecnologias que uso no dia a dia
 
@@ -42,4 +49,12 @@ Here are some ideas to get you started:
 
 ---
 
+### 📫 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seuusuario/)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/VitorMartinsRS)  
+
+---
+
 ✨ Sempre aprendendo e construindo projetos com essas tecnologias!
+
