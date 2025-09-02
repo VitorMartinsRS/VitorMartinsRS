@@ -46,6 +46,10 @@ Here are some ideas to get you started:
 ### 📊 Estatísticas do GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMartinsRS&layout=compact&theme=dark)
+---
+### 📈 Minha frequência de contribuições no GitHub
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VitorMartinsRS&theme=dark)
 
 ---
 
@@ -64,9 +68,5 @@ Here are some ideas to get you started:
 </p>
 
 ---
-### 📈 Minha frequência no GitHub
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VitorMartinsRS&theme=dark)
-
 
 ✨ Sempre aprendendo e construindo projetos com essas tecnologias!
