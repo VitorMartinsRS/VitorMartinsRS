@@ -14,15 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Olá, eu sou o Vitor Martins  
-
-### 👨‍💻 Sobre mim
-- 🎓 Estudante de **Engenharia da Computação**  
-- 💼 Atuação e interesse em **Desenvolvimento Full-Stack**  
-- 🌱 Atualmente aprendendo **C e C++**  
-- 🚀 Buscando colaborar em projetos **open source**  
-
----
 # 👋 Olá, eu sou o Vitor Martins
 
 ### 👨‍💻 Sobre mim
