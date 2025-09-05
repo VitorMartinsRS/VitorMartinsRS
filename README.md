@@ -29,13 +29,17 @@ Here are some ideas to get you started:
   <!-- Linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  
+
   <!-- C em verde -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" style="filter: hue-rotate(120deg) brightness(1.2);"/>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+       alt="C" width="40" height="40"
+       style="filter: hue-rotate(120deg) brightness(1.2);"/>
+
   <!-- C++ em azul -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="filter: hue-rotate(200deg) brightness(1.1);"/>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+       alt="C++" width="40" height="40"
+       style="filter: hue-rotate(200deg) brightness(1.1);"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 
@@ -56,12 +60,12 @@ Here are some ideas to get you started:
   <!-- Outros -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  
-  <!-- Ubuntu (laranja oficial já vem pronto no devicon) -->
+
+  <!-- Ubuntu (laranja oficial) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/>
-  
-  <!-- Kali Linux (sem ícone oficial no Devicon, usei Debian como base) -->
-  <img src="LINK_DO_SVG_DO_KALI" alt="Kali Linux" width="40" height="40"/>
+
+  <!-- Kali Linux (ícone oficial externo) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
 </p>
 
 ---
