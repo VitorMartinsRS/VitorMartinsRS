@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/>
   
   <!-- Kali Linux (sem ícone oficial no Devicon, usei Debian como base) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Kali Linux (Debian base)" width="40" height="40"/>
+  <img src="LINK_DO_SVG_DO_KALI" alt="Kali Linux" width="40" height="40"/>
 </p>
 
 ---
