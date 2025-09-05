@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   <!-- C estilizado -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 
+
   
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -60,6 +61,7 @@ Here are some ideas to get you started:
   
   <!-- Ubuntu (laranja oficial) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/>
+  
 ---
 
 ### 📊 Estatísticas do GitHub
