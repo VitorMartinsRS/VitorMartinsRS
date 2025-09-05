@@ -62,12 +62,14 @@ Here are some ideas to get you started:
   
   <!-- Ubuntu (laranja oficial) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
   
 ---
 
 ### 📊 Estatísticas do GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMartinsRS&layout=compact&theme=dark)
+
 ---
 
 ### 📫 Onde me encontrar
