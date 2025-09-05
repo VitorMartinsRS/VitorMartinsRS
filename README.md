@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   
   <!-- C estilizado -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/C_Programming_Language.svg" alt="C" width="40" height="40"/>
 
 
   
