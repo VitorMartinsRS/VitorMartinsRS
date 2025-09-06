@@ -93,3 +93,49 @@ Here are some ideas to get you started:
 ---
 
 ✨ Sempre aprendendo e construindo projetos com essas tecnologias!
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <!-- Estatísticas gerais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VitorMartinsRS&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMartinsRS&layout=default&theme=radical" alt="Top Languages" width="48%"/>
+</p>
+
+<p align="center">
+  <!-- Troféus -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=VitorMartinsRS&theme=radical&row=1&column=7" alt="Trophy"/>
+  </a>
+</p>
+
+<p align="center">
+  <!-- Gráfico de atividade -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=VitorMartinsRS&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
+</p>
+
+### 🌟 Repositórios em Destaque
+
+<p align="center">
+  <a href="https://github.com/VitorMartinsRS/nome-do-repo-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VitorMartinsRS&repo=nome-do-repo-1&theme=radical" alt="Repo 1" width="48%"/>
+  </a>
+  <a href="https://github.com/VitorMartinsRS/nome-do-repo-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VitorMartinsRS&repo=nome-do-repo-2&theme=radical" alt="Repo 2" width="48%"/>
+  </a>
+</p>
+
+### 🛠️ Skills Principais
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
+
