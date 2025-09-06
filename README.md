@@ -70,7 +70,6 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorMartinsRS&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMartinsRS&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VitorMartinsRS&theme=radical)
 ![Contributions](https://github-readme-stats.vercel.app/api?username=VitorMartinsRS&count_private=true&show_icons=true&theme=radical)
 
 ---
