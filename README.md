@@ -70,8 +70,8 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorMartinsRS&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMartinsRS&layout=compact&theme=radical)
-![Contributions](https://github-readme-stats.vercel.app/api?username=VitorMartinsRS&count_private=true&show_icons=true&theme=radical)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=VitorMartinsRS&theme=react-dark&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=VitorMartinsRS&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![ReadMe Repos](https://github-readme-stats.vercel.app/api/pin/?username=VitorMartinsRS&repo=nome-do-repo&theme=radical)](https://github.com/VitorMartinsRS/nome-do-repo)
 
 
 ---
