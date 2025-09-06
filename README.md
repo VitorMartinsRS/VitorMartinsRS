@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Olá, eu sou o Vitor Martins
+# 👋Eu sou o Vitor Martins
 
 ### 👨‍💻 Sobre mim
 - 🎓 Estudante de **Engenharia da Computação**
