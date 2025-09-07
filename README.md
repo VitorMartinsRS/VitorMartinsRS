@@ -67,8 +67,7 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 Estatísticas do GitHub
-
-![Linguagens de Programação](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMartinsRS&layout=compact&theme=dark&langs_count=10)
+![Linguagens de Programação](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMartinsRS&langs_count=10&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorMartinsRS&show_icons=true&theme=radical)
 
 ---
