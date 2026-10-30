@@ -1,93 +1,76 @@
-## Óla, Seja Bem Vindo👋
+Vitor Martins
 
-<!--
-**VitorMartinsRS/VitorMartinsRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack Júnior | Java • Python • JavaScript | Projetos Web • APIs REST
 
-Here are some ideas to get you started:
+Estudante de Engenharia da Computação na UNINASSAU, com experiência prática na construção de interfaces, sites comerciais e aplicações de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋Eu sou o Vitor Martins
+Transformo necessidades reais em soluções funcionais, buscando conectar interface, lógica, dados e experiência do usuário. Meu objetivo é atuar em desenvolvimento Full Stack, colaborar com equipes de engenharia e evoluir na entrega de software bem estruturado.
 
-### 👨‍💻 Sobre mim
-- 🎓 Estudante de **Engenharia da Computação**
-- 💼 Atuação e interesse em **Desenvolvimento Full-Stack**
-- 🌱 Atualmente aprendendo **C e C++**
-- 🚀 Buscando colaborar em projetos **open source**
+📍 Recife, Pernambuco, Brasil
+🔗 "Portfólio" (https://vitormartinsrs.github.io/Portifolio/) · "LinkedIn" (https://www.linkedin.com/in/vitormartinsrs/) · "Currículo" (https://vitormartinsrs.github.io/Portifolio/curriculo-vitor-martins.html)
 
 ---
 
-### 🚀 Tecnologias que uso no dia a dia
-<p align="left">
-  <!-- Linguagens -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  
-  <!-- C estilizado -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+Projetos em destaque
 
+Afinp Finance — gestão financeira
 
+Problema: organizar e acompanhar movimentações financeiras de maneira clara.
+Solução: projeto de gestão financeira com registro de receitas e despesas, categorias e visualizações das movimentações.
+Escopo técnico: desenvolvimento de interfaces e funcionalidades para diferentes plataformas, com atenção a entrada de dados, persistência e apresentação das informações.
 
-  
-  <!-- C++ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  
-  <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-  
-  <!-- Bancos de Dados -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="NoSQL (placeholder)" width="40" height="40"/>
-  
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  
-  <!-- Outros -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  
-  <!-- Ubuntu (laranja oficial) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
-  
----
+Situação das versões:
 
-### 📊 Estatísticas do GitHub
-![Linguagens de Programação](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMartinsRS&langs_count=10&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorMartinsRS&show_icons=true&theme=radical)
+- Desktop e Android: versões do projeto em desenvolvimento; funcionalidades e testes precisam ser documentados individualmente.
+- iOS: código disponível no GitHub, ainda sem confirmação de compilação e testes em dispositivo.
 
+Evidência: "Repositório Afinp Finance para iOS" (https://github.com/VitorMartinsRS/afinp-ios).
+
+Portfólio comercial — Renato Silva
+
+Problema: apresentar a atuação de um representante comercial e facilitar a consulta a produtos e marcas.
+Minha contribuição: estruturação das páginas, organização do catálogo, navegação e desenvolvimento da interface.
+Tecnologias: HTML, CSS e JavaScript.
+Entrega: site publicado, com catálogo organizado por marcas e contato via WhatsApp.
+
+Demonstração: "Acessar site comercial" (https://renatosilvarep.github.io/Portfoliocomercial/).
+
+Verifica+ — conscientização sobre desinformação
+
+Problema: aproximar estudantes do debate sobre notícias falsas e verificação de informações.
+Minha contribuição: participação no desenvolvimento de uma interface web para interação com notícias e manchetes.
+Contexto: projeto utilizado em uma ação de extensão universitária na EREM Jornalista Trajano Chacon.
+Limite importante: a interface não deve ser confundida com garantia de checagem factual automática.
+
+Demonstração: "Conhecer o Verifica+" (https://verifica-five.vercel.app/) · Código: "Verificador-de-FakeNews" (https://github.com/VitorMartinsRS/Verificador-de-FakeNews).
+
+Estacionamento automatizado — Arduino
+
+Problema: controlar a entrada, a saída e a disponibilidade de vagas em um estacionamento.
+Solução: protótipo com sensores ultrassônicos, servomotor para cancela e LCD I2C para informações ao usuário.
+Tecnologias: Arduino Uno, sensores ultrassônicos, servomotor e LCD I2C.
+Desafio técnico: integração entre hardware e software, controle de estados e acompanhamento de até dez vagas.
+
+Código: "sistemas-embarcados-estacionamento" (https://github.com/VitorMartinsRS/sistemas-embarcados-estacionamento).
 
 ---
 
-### 📫 Onde me encontrar
+Tecnologias em prática
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/vitor-martins-b8936b302/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vitorrsilveriomartins@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/VitorMartinsRS">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
+- Desenvolvimento web: HTML, CSS e JavaScript — aplicados no site comercial publicado.
+- Programação: Java e Python — utilizados em estudos e projetos de software.
+- Versionamento e colaboração: Git e GitHub — organização e publicação de código.
 
----
+Em aprofundamento: APIs REST, integração entre aplicações, modelagem de dados, documentação técnica e testes.
 
-✨ Sempre aprendendo e construindo projetos com essas tecnologias!
+Atualmente
 
+Estou aprimorando a documentação dos projetos e consolidando evidências de implementação, funcionamento e testes. Meu foco é desenvolver aplicações web e software com código organizado e soluções úteis para pessoas e negócios.
+
+Contato
+
+- Portfólio: https://vitormartinsrs.github.io/Portifolio/
+- LinkedIn: https://www.linkedin.com/in/vitormartinsrs/
+- GitHub: https://github.com/VitorMartinsRS
+
+Aberto a oportunidades como Desenvolvedor Full Stack Júnior.
