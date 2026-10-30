@@ -27,5 +27,5 @@ TypeScript, React, Angular, MongoDB, C#, PySide6 e SQLAlchemy.
 - [Portfólio](https://vitormartinsrs.github.io/Portifolio/)
 - [LinkedIn](https://www.linkedin.com/in/vitormartinsrs/)
 - [**Currículo**](https://vitormartinsrs.github.io/Portifolio/curriculo-vitor-martins.html)
-- 
+
 **Aberto a oportunidades em desenvolvimento Full Stack Júnior.**
