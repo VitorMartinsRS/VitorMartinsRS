@@ -8,7 +8,7 @@ Desenvolvo **sites, aplicações e soluções de software** para transformar nec
 
 ## 🚀 Projetos em destaque
 
-- **Afinp Finance** — Gestão financeira multiplataforma em desenvolvimento.
+- **Afinp Finance** — Gestão financeira multiplataforma em desenvolvimento. [Código iOS](https://github.com/VitorMartinsRS/afinp-web)
 - **[Site Comercial — Renato Silva](https://renatosilvarep.github.io/Portfoliocomercial/)** — Catálogo de produtos e contato comercial.
 - **[Verifica+](https://verifica-five.vercel.app/)** — Educação digital e combate à desinformação.
 - **Estacionamento Automatizado** — Projeto com Arduino, sensores e cancela automática.
