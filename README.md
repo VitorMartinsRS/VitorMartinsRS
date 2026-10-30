@@ -4,7 +4,7 @@
 
 Desenvolvedor em início de carreira, com experiência prática em Java, Spring Boot, Python, JavaScript e desenvolvimento de aplicações web. Trabalho na construção de soluções de software, aplicando lógica de programação, integração de sistemas e bancos de dados.
 
-### Tecnologias principais
+# Tecnologias principais
 
 - **Back-end:** Java, Spring Boot e Python
 - **Front-end:** HTML5, CSS3 e JavaScript
@@ -12,17 +12,17 @@ Desenvolvedor em início de carreira, com experiência prática em Java, Spring 
 - **Ferramentas:** Git e GitHub
 - **Outras linguagens com experiência prática:** C e C++
 
-### Conhecimentos complementares
+# Conhecimentos complementares
 
 TypeScript, React, Angular, MongoDB, C#, PySide6 e SQLAlchemy.
 
-### Projetos em destaque
+# Projetos em destaque
 
 - **Afinp Finance:** sistema de gestão financeira.
 - **Verifica+:** plataforma de conscientização sobre desinformação.
 - **Portfólio Comercial:** site desenvolvido para apresentação de produtos e serviços de um cliente.
 
-### Links
+# Links
 
 - [Portfólio](https://vitormartinsrs.github.io/Portifolio/)
 - [LinkedIn](https://www.linkedin.com/in/vitormartinsrs/)
